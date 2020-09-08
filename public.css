@@ -1,0 +1,31 @@
+#title {
+  color: rgb(255, 0, 0);
+  text-align: center;
+  font-size: 50px;
+}
+
+a {
+  color: rgb(26, 215, 198);
+  font-size: 30px;
+}
+
+#inp {
+  color: rgb(211, 28, 221);
+  text-align: center;
+  font-size: 30px;
+}
+
+body {
+  text-align: center;
+  font-size: 30px;
+}
+
+ul {
+  text-align: left;
+  font-size: 30px;
+}
+
+.link {
+  font-size: 30px;
+  color: rgb(237, 111, 111);
+}

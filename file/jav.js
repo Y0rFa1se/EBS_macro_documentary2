@@ -2,7 +2,7 @@ function pwcheck(){
   var inputVal = document.getElementById("pw").value;
 
   if (inputVal == "dldmswnstkfkdgo") {
-    window.location = 'https://drive.google.com/file/d/1WndgxqHfkuwnv7U2aeg3qw-s-ENo9zB2/view?usp=sharing';
+    window.location = 'https://drive.google.com/file/d/11A5kUBsUZr4pNGU-Mdg4ZKiZHpGUKOp9/view';
   } else {
     alert("어림도없지");
     window.history.back();

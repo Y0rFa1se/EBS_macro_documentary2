@@ -1,3 +1,11 @@
+#title {
+  color: rgb(141, 24, 251);
+  text-align: center;
+  font-size: 70px;
+  font-family: 'Do Hyeon', sans-serif;
+}
+
+
 a {
   color: rgb(21, 193, 146);
   font-size: 30px;
@@ -13,13 +21,6 @@ body {
 ul {
   text-align: left;
   font-size: 20px;
-  font-family: 'Do Hyeon', sans-serif;
-}
-
-#title {
-  color: rgb(141, 24, 251);
-  text-align: center;
-  font-size: 70px;
   font-family: 'Do Hyeon', sans-serif;
 }
 

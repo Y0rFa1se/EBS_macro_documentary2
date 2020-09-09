@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  background: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: 'East Sea Dokdo', cursive;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  font-size: 80px;
+  font-family: 'East Sea Dokdo', cursive;
+}
+
+#pw {
+  width: 800px;
+  height: 100px;
+  font-size: 50px;
+  font-family: 'East Sea Dokdo', cursive;
+}
+
+#enter {
+  height: 100px;
+  font-size: 50px;
+  font-family: 'East Sea Dokdo', cursive;
+}
+
+#return {
+  font-size: 50px;
+  font-family: 'East Sea Dokdo', cursive;
+}

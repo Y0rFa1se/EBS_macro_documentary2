@@ -6,7 +6,7 @@ a {
 
 body {
   text-align: center;
-  font-size: 10px;
+  font-size: 20px;
   font-family: 'Do Hyeon', sans-serif;
 }
 
@@ -21,4 +21,8 @@ ul {
   text-align: center;
   font-size: 70px;
   font-family: 'Do Hyeon', sans-serif;
+}
+
+#faq {
+  color: rgb(221, 70, 14);
 }
